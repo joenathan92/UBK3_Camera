@@ -6,7 +6,6 @@
 * Import Android-Upload-Image-MySQL to Android Studio
 
 
-Referensi Pembuatan Aplikasi ini
+## Referensi https://dedykuncoro.com/2016/03/membuat-aplikasi-android-upload-gambar.html ##
 
-Tutorial 
-https://dedykuncoro.com/2016/03/membuat-aplikasi-android-upload-gambar.html
+
