@@ -7,7 +7,6 @@
 
 
 Referensi Pembuatan Aplikasi ini
+
 Tutorial 
 https://dedykuncoro.com/2016/03/membuat-aplikasi-android-upload-gambar.html
-Demo app
-https://www.youtube.com/watch?v=xtaXRKFQKWw
